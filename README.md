@@ -1,3 +1,6 @@
+![status](https://img.shields.io/badge/Status-WIP-red.svg)
+[![Slack Status](https://uc-slack.herokuapp.com/badge.svg)](https://uc-slack.herokuapp.com)
+
 # Firepad-RethinkDB
 
 Firepad-RethinkDB is an open-source, collaborative code and text editor. It is
