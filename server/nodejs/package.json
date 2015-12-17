@@ -1,0 +1,11 @@
+{
+  "name": "firepad-rethinkdb-server",
+  "version": "1.0.0",
+  "description": "server side for firepad-rethinkdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shannon Duncan",
+  "license": "MIT"
+}
