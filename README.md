@@ -13,16 +13,17 @@ This repo is a fork from Firepad which was origianlly built to be used with Fire
 
 If you are thinking about contributing to this project, then this is the place you will want to start. The following items are what needs to be done.
 
-1. Document Source (The current code isn't fully document, and can be dense. Need to go through and document extensively everything)
-2. Rename Project (RethinkPad???)
-3. Create UML Diagrams for current code
-4. Create UML Diagrams for planned code (Client & Server)
-5. Create RethinkDB adapter (socketio)
-6. Remove Firebase Adapter
-7. REmove Firebase References and refactor code to new project name
-8. Setup Server
-9. Build Tests for new code
-10. Profit
+1. Choose Documentation Library (Yui, Doxx, Mr. Doc???)
+2. Document Source (The current code isn't fully document, and can be dense. Need to go through and document extensively everything)
+3. Rename Project (RethinkPad???)
+4. Create UML Diagrams for current code
+5. Create UML Diagrams for planned code (Client & Server)
+6. Create RethinkDB adapter (socketio)
+7. Remove Firebase Adapter
+8. REmove Firebase References and refactor code to new project name
+9. Setup Server
+10. Build Tests for new code
+11. Profit
 
 ## Contributing
 
