@@ -9,34 +9,20 @@ designed to be embedded inside larger web applications.
 ## Forked from [Firepad](https://firepad.io)
 This repo is a fork from Firepad which was origianlly built to be used with Firebase. I started to use it, and really didn't like the Firebase back end for security and robustness reasons. So I am rewritting this to work with RethinkDB instead. Which is a server-side realtime database.
 
-## Live Demo
+## ToDo
 
-Coming Soon.
+If you are thinking about contributing to this project, then this is the place you will want to start. The following items are what needs to be done.
 
-## Setup
-Firepad-RethinkDB uses [RethinkDB](https://www.rethinkdb.com) as a backend, so it does require server side code. 
-
-```HTML
-<!-- Firebase -->
-<script src="https://cdn.firebase.com/js/client/2.2.4/firebase.js"></script>
-
-<!-- CodeMirror -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.2.0/codemirror.js"></script>
-<!-- Insert firepad-rethinkdb link here -->
-
-<!-- Firepad -->
-<link rel="stylesheet" href="https://cdn.firebase.com/libs/firepad/1.2.0/firepad.css" />
-<!-- Insert firepad-rethinkdb link here -->
-```
-
-and calling an init function.
-
-```HTML
-<!-- Rewrite with new init functions -->
-```
-
-Firepad-RethinkDB supports rich text editing with [CodeMirror](http://codemirror.net/) and code editing via
-[ACE](http://ace.c9.io/). Check out the detailed setup instructions at ( Coming Soon... ).
+1. Document Source (The current code isn't fully document, and can be dense. Need to go through and document extensively everything)
+2. Rename Project (RethinkPad???)
+3. Create UML Diagrams for current code
+4. Create UML Diagrams for planned code (Client & Server)
+5. Create RethinkDB adapter (socketio)
+6. Remove Firebase Adapter
+7. REmove Firebase References and refactor code to new project name
+8. Setup Server
+9. Build Tests for new code
+10. Profit
 
 ## Contributing
 
@@ -62,4 +48,6 @@ command line using `grunt test`.
 
 ## Getting Help
 
-Join our slack chat at [Unrestricted Coding](http://uc-slack.herokuapp.com)
+Join our slack chat at [Unrestricted Coding Slack](http://uc-slack.herokuapp.com)
+
+Visit site at [Unrestricted Coding](http://unrestrictedcoding.com/)
