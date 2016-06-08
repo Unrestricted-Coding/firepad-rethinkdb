@@ -1,5 +1,7 @@
 ![status](https://img.shields.io/badge/Status-WIP-red.svg)
-[![Slack Status](https://uc-slack.herokuapp.com/badge.svg)](https://uc-slack.herokuapp.com)
+[![Visit Facebook Group](https://img.shields.io/badge/Facebook-Visit%20Community-blue.svg)](https://www.facebook.com/groups/204308966622383)
+
+# THIS PROJECT IS STALE, FOR MORE INFORMATION PLEASE VISIT THIS PAGE: [http://unrestrictedcoding.com/projects/](http://unrestrictedcoding.com/projects/)
 
 # Firepad-RethinkDB
 
@@ -49,6 +51,6 @@ command line using `grunt test`.
 
 ## Getting Help
 
-Join our slack chat at [Unrestricted Coding Slack](http://uc-slack.herokuapp.com)
+[![Visit Facebook Group](https://img.shields.io/badge/Facebook-Visit%20Community-blue.svg)](https://www.facebook.com/groups/204308966622383)
 
 Visit site at [Unrestricted Coding](http://unrestrictedcoding.com/)
